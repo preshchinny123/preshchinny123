@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Chinenye Precious Nnodu (aka preshchinny123)
 
-<!--
-**preshchinny123/preshchinny123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!  
+
+I am passionate about technology, creativity, and growth.  Currently I am exploring the world of cybersecurity and digital skills.
+
+
+
+## 🌱 What I'm learning
+
+- Cybersecurity
+
+
+
+
+
+## 🎯 Goals
+
+- To build strong foundations in cybersecurity
+
+- To share my learning journey openly
+
+- To connect with others who are growing in tech
+
+
+
+
+
+
+## 📫 Let's Connect
+ 
+
+- 📧 preshchinny@gmail.com  
+
+
+
+---
+
+
+
+⭐ **Thanks for visiting my profile!**  
+
+Feel free to explore my repositories and follow my journey.
+
