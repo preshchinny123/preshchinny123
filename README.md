@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chinenye Precious Nnodu (aka preshchinny123)
+# 👋 Hi, I'm Chinenye Precious Nnodu
 
 
 
